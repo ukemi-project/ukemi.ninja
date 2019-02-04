@@ -1,0 +1,13 @@
+{
+  "name": "ukemi.ninja",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@gitlab.com:KyteProject/ukemi.ninja.git",
+  "author": "Dan <headhertz88@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-uncss": "^0.8.5"
+  }
+}

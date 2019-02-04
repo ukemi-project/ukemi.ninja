@@ -11,11 +11,7 @@
     <meta name="author" content="Daniel Smith">
 
     <link rel="shortcut icon" href="">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
-    <link rel="stylesheet" href="css/plugins.css">
-    <link rel="stylesheet" href="css/fonts-icons.css">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-    <link rel="stylesheet" type="text/css" href="css/helper.css">
+    <link rel="stylesheet" type="text/css" href="/cleancss/tidy.css">
 </head>
 <body>
 
@@ -41,9 +37,7 @@
     <header class="header">
         <nav class="navbar navbar-expand-lg p-0 navbar-custom">
             <div class="header-logo">
-                <!-- <a class="navbar-brand d-flex align-items-center text-white bg-black" href="#"> -->
-                    <img src="/images/logo.png">
-                <!-- </a> -->
+                    <img src="/images/logo.png" alt="L=Ukemi logo">
             </div>
             <div class="header-nav ml-auto">
                 <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -51,8 +45,8 @@
                         <li class="nav-item active"><a class="nav-link page-scroll" href="#home">Home <span class="sr-only">(current)</span></a></li>
                         <li class="nav-item"><a class="nav-link page-scroll" href="#about">About</a></li>
                         <li class="nav-item"><a class="nav-link" href="https:\\ukemi.ninja\blog\index.php">Blog</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https:\\ukemi.ninja\shop">Shop</a></li>
                         <li class="nav-item"><a class="nav-link page-scroll" href="#news">News</a></li>
-                        <li class="nav-item"><a class="nav-link page-scroll" href="#contact">Contact</a></li>
                         <li class="nav-item d-none d-lg-block"><a class="nav-link header-follow" href="#SocialIcon"><span class="ti-sharethis"></span></a></li>
                     </ul>
                 </div>
@@ -151,7 +145,7 @@
                         <div class="service-hidden-content">
                             <p>Custom card games that are created for and by the Parkour community. Challenge your friends to jump, invert, twist and play with the official Ukemi card game.</p>
                         </div>
-                        <a class="service-read-more" href="https://cards.ukemi.ninja">Read More</a>
+                        <a class="service-read-more" href="https://ukemi.ninja/shop/ukemi-card-game-parkour-freerunning-project">Read More</a>
                     </div>
                 </div>
             </div>
@@ -163,7 +157,7 @@
                         <div class="service-hidden-content">
                             <p>Guidance on training, injury rehabilitation and all the things in between. At Ukemi we have a no bullshit approach that makes movement as accessible for everyone.</p>
                         </div>
-                        <a class="service-read-more" href="https://books.ukemi.ninja">Read More</a>
+                        <a class="service-read-more" href="https://ukemi.ninja/blog">Read More</a>
                     </div>
                 </div>
             </div>

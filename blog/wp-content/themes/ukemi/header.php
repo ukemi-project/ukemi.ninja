@@ -32,8 +32,8 @@
                     <li class="nav-item"><a class="nav-link page-scroll" href="https:\\ukemi.ninja">Home</a></li>
                         <li class="nav-item"><a class="nav-link page-scroll" href="https:\\ukemi.ninja\#about">About</a></li>
                         <li class="nav-item active"><a class="nav-link" href="https:\\ukemi.ninja\blog\index.php">Blog<span class="sr-only">(current)</span></a></li>
+                        <li class="nav-item"><a class="nav-link" href="https:\\ukemi.ninja\shop">Shop</a></li>
                         <li class="nav-item"><a class="nav-link page-scroll" href="https:\\ukemi.ninja\#news">News</a></li>
-                        <li class="nav-item"><a class="nav-link page-scroll" href="https:\\ukemi.ninja\#contact">Contact</a></li>
                         <li class="nav-item d-none d-lg-block"><a class="nav-link header-follow" href="#SocialIcon"><span class="ti-sharethis"></span></a></li>
                     </ul>
                 </div>
